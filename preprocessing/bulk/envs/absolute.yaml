@@ -1,9 +1,0 @@
-name: absolute
-channels:
-  - bioconda
-  - r
-  - defaults
-  - conda-forge
-dependencies:
-  - r-devtools
-  - r-numderiv
